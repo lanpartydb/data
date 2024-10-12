@@ -1,0 +1,19 @@
+slug = "w2tj-34-09"
+title = "W2tJ v34.09 - 15 Jahre W2tJ"
+series_slug = "w2tj"
+organizer_entity = "W2tJ-LAN e.V."
+start_on = 2025-04-10
+end_on = 2025-04-13
+seats = 62
+
+[location]
+name = "Maximilian-Kolbe-Haus"
+country_code = "de"
+city = "Seligenstadt - Froschhausen"
+zip_code = "63500"
+street = "Anne-Frank-Str. 2"
+latitude = 50.05504
+longitude = 8.94255
+
+[links.website]
+url = "https://w2tj.net/"
