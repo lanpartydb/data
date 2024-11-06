@@ -201,3 +201,8 @@ country_codes = ["de"]
 slug = "wildefingerspiele"
 name = "Wildefingerspiele"
 country_codes = ["de"]
+
+[[series]]
+slug = "lock-and-load"
+name = "LOCK AND LOAD"
+country_codes = ["ch"]

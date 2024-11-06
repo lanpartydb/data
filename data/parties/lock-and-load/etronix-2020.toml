@@ -1,0 +1,19 @@
+slug = "etronix-2020"
+title = "etronix-2020"
+series_slug = "lock-and-load"
+organizer_entity = "lock-and-load"
+start_on = 2020-02-28
+end_on = 2020-03-01
+seats = 80
+
+[location]
+name = "Schule Eich"
+country_code = "ch"
+city = "Eich"
+zip_code = "6205"
+street = "Kirchstrasse 21"
+latitude = 47.153442
+longitude = 8.168175
+
+[links.website]
+url = "https://www.lockandload.ch/"

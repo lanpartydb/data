@@ -1,0 +1,19 @@
+slug = "lock-and-load-13"
+title = "LOCK AND LOAD 13"
+series_slug = "lock-and-load"
+organizer_entity = "lock-and-load"
+start_on = 2022-09-09
+end_on = 2022-09-11
+seats = 350
+
+[location]
+name = "Stadthalle Sursee (Dreifachhalle)"
+country_code = "ch"
+city = "Sursee"
+zip_code = "6210"
+street = "St. Urban-Strasse 5"
+latitude = 47.174777
+longitude = 8.108033
+
+[links.website]
+url = "https://www.lockandload.ch/"

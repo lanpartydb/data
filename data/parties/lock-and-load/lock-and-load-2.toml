@@ -1,0 +1,19 @@
+slug = "lock-and-load-2"
+title = "LOCK AND LOAD 2"
+series_slug = "lock-and-load"
+organizer_entity = "lock-and-load"
+start_on = 2011-09-02
+end_on = 2011-09-04
+seats = 80
+
+[location]
+name = "Mehrzweckhalle Buchs"
+country_code = "ch"
+city = "Buchs"
+zip_code = "6211"
+street = "Dorfstrasse 9"
+latitude = 47.202601
+longitude = 8.037342
+
+[links.website]
+url = "https://www.lockandload.ch/"

@@ -1,0 +1,19 @@
+slug = "lock-and-load-5"
+title = "LOCK AND LOAD 5"
+series_slug = "lock-and-load"
+organizer_entity = "lock-and-load"
+start_on = 2014-01-03
+end_on = 2014-01-05
+seats = 180
+
+[location]
+name = "Stadthalle Sursee (Mehrzwecksaal)"
+country_code = "ch"
+city = "Sursee"
+zip_code = "6210"
+street = "St. Urban-Strasse 5"
+latitude = 47.174777
+longitude = 8.108033
+
+[links.website]
+url = "https://www.lockandload.ch/"

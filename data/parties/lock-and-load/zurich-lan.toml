@@ -1,0 +1,19 @@
+slug = "zurich-lan"
+title = "zurich-lan"
+series_slug = "lock-and-load"
+organizer_entity = "lock-and-load"
+start_on = 2019-09-13
+end_on = 2019-09-15
+seats = 200
+
+[location]
+name = "Messe Zürich"
+country_code = "ch"
+city = "Zürich"
+zip_code = "8050"
+street = "Wallisellenstrasse 49"
+latitude = 47.411593
+longitude = 8.553279
+
+[links.website]
+url = "https://www.lockandload.ch/"

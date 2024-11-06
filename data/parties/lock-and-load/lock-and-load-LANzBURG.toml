@@ -1,0 +1,19 @@
+slug = "lock-and-load-LANzBURG"
+title = "LOCK AND LOAD LANzBURG"
+series_slug = "lock-and-load"
+organizer_entity = "lock-and-load"
+start_on = 2024-10-25
+end_on = 2024-10-27
+seats = 180
+
+[location]
+name = "Schloss Lenzburg"
+country_code = "ch"
+city = "Lenzburg"
+zip_code = "5600"
+street = "Schloss"
+latitude = 47.387751
+longitude = 8.185613
+
+[links.website]
+url = "https://www.lockandload.ch/"

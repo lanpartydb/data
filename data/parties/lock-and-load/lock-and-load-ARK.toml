@@ -1,0 +1,19 @@
+slug = "lock-and-load-ARK"
+title = "LOCK AND LOAD ARK"
+series_slug = "lock-and-load"
+organizer_entity = "lock-and-load"
+start_on = 2017-12-15
+end_on = 2017-12-17
+seats = 180
+
+[location]
+name = "Gemeindezentrum Arche"
+country_code = "ch"
+city = "Dagmersellen"
+zip_code = "6252"
+street = "Untere Kirchfeldstrasse 8"
+latitude = 47.214683
+longitude = 7.990785
+
+[links.website]
+url = "https://www.lockandload.ch/"

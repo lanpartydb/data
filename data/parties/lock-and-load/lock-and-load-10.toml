@@ -1,0 +1,19 @@
+slug = "lock-and-load-10"
+title = "LOCK AND LOAD 10"
+series_slug = "lock-and-load"
+organizer_entity = "lock-and-load"
+start_on = 2018-03-30
+end_on = 2018-04-01
+seats = 500
+
+[location]
+name = "Stadthalle Sursee (Dreifachhalle)"
+country_code = "ch"
+city = "Sursee"
+zip_code = "6210"
+street = "St. Urban-Strasse 5"
+latitude = 47.174777
+longitude = 8.108033
+
+[links.website]
+url = "https://www.lockandload.ch/"
