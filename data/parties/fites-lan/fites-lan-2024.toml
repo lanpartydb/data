@@ -10,5 +10,4 @@ name = "Rodeway Inn Myerstown"
 country_code = "us"
 city = "Myerstown"
 
-[links.website]
-url = "https://www.fites.net"
+url = "https://www.fites.net/"
