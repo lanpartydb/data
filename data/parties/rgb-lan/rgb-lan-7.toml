@@ -1,0 +1,14 @@
+slug = "rgb-lan-7"
+title = "RGB LAN 7"
+series_slug = "rgb-lan"
+start_on = 2024-09-06
+end_on = 2024-09-08
+seats = 100
+
+[location]
+name = "Greater Philadelphia Expo Center"
+country_code = "us"
+city = "Oaks"
+
+[links.website]
+url = "https://www.rgblan.org/"

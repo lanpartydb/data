@@ -1,0 +1,14 @@
+slug = "rgb-lan-4"
+title = "RGB LAN 4"
+series_slug = "rgb-lan"
+start_on = 2019-06-21
+end_on = 2019-06-23
+seats = 100
+
+[location]
+name = "Greater Philadelphia Expo Center"
+country_code = "us"
+city = "Oaks"
+
+[links.website]
+url = "https://www.rgblan.org/"
