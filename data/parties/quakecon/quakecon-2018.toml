@@ -1,0 +1,14 @@
+slug = "quakecon-2018"
+title = "QuakeCon 2018"
+series_slug = "quakecon"
+start_on = 2018-08-09
+end_on = 2018-08-12
+
+[location]
+name = "Gaylord Texan Resort Hotel and Convention Center"
+country_code = "us"
+city = "Grapevine"
+zip_code = 76051
+
+[links.website]
+url = "https://quakecon.bethesda.net/en/"

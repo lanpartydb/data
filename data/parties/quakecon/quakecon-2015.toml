@@ -1,0 +1,14 @@
+slug = "quakecon-2015"
+title = "QuakeCon 2015"
+series_slug = "quakecon"
+start_on = 2015-07-23
+end_on = 2015-07-26
+
+[location]
+name = "Hilton Anatole"
+country_code = "us"
+city = "Dallas"
+zip_code = 75207
+
+[links.website]
+url = "https://quakecon.bethesda.net/en/"

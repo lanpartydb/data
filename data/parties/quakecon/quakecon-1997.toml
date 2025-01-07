@@ -1,0 +1,15 @@
+slug = "quakecon-1997"
+title = "QuakeCon 1997"
+series_slug = "quakecon"
+start_on = 1997-07-25
+end_on = 1997-07-27
+seats = 650
+
+[location]
+name = "Holiday Inn"
+country_code = "us"
+city = "Plano"
+zip_code = 75023
+
+[links.website]
+url = "https://quakecon.bethesda.net/en/"

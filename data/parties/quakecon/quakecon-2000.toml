@@ -1,0 +1,14 @@
+slug = "quakecon-2000"
+title = "QuakeCon 2000"
+series_slug = "quakecon"
+start_on = 2000-07-22
+end_on = 2000-07-25
+
+[location]
+name = "Mesquite Convention Center"
+country_code = "us"
+city = "Mesquite"
+zip_code = 75149
+
+[links.website]
+url = "https://quakecon.bethesda.net/en/"

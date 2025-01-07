@@ -1,0 +1,15 @@
+slug = "quakecon-1996"
+title = "QuakeCon 1996"
+series_slug = "quakecon"
+start_on = 1996-08-02
+end_on = 1996-08-04
+seats = 40
+
+[location]
+name = "La Quinta Inn"
+country_code = "us"
+city = "Garland"
+zip_code = 75040
+
+[links.website]
+url = "https://quakecon.bethesda.net/en/"

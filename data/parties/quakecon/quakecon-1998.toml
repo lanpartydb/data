@@ -1,0 +1,14 @@
+slug = "quakecon-1998"
+title = "QuakeCon 1998"
+series_slug = "quakecon"
+start_on = 1998-07-22
+end_on = 1998-07-26
+
+[location]
+name = "Equinix Infomart"
+country_code = "us"
+city = "Dallas"
+zip_code = 75027
+
+[links.website]
+url = "https://quakecon.bethesda.net/en/"
