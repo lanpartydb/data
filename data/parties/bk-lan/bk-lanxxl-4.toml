@@ -1,0 +1,18 @@
+slug = "bk-lanxxl-4"
+title = "BK(XX)L #4"
+series_slug = "bk-lan"
+organizer_entity = "BK-LAN e.V."
+start_on = 2007-05-18
+end_on = 2007-05-20
+seats = 501
+attendees = 501
+
+[location]
+name = "Jakob-Kiefer-Halle"
+country_code = "de"
+city = "Bad Kreuznach"
+zip_code = "55543"
+street = "Heidenmauer 12"
+
+[links.website]
+url = "https://bk-lan.de/party/3"

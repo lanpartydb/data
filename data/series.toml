@@ -6,6 +6,11 @@ name = "ATRLAN"
 country_codes = ["us"]
 
 [[series]]
+slug = "bk-lan"
+name = "BK-LAN"
+country_codes = ["de"]
+
+[[series]]
 slug = "caggtus"
 name = "CAGGTUS"
 country_codes = ["de"]

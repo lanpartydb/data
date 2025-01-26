@@ -1,0 +1,18 @@
+slug = "bk-lan-18"
+title = "BK-LAN #18"
+series_slug = "bk-lan"
+organizer_entity = "BK-LAN e.V."
+start_on = 2024-05-10
+end_on = 2024-05-12
+seats = 144
+attendees = 120
+
+[location]
+name = "Kronenberg Halle Bretzenheim"
+country_code = "de"
+city = "Bretzenheim"
+zip_code = "55559"
+street = "Winzenheimer Straße 29"
+
+[links.website]
+url = "https://bk-lan.de/party/36"

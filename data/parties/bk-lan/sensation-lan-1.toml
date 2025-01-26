@@ -1,0 +1,18 @@
+slug = "sensation-lan-1"
+title = "Sensation-LAN"
+series_slug = "bk-lan"
+organizer_entity = "BK-LAN e.V."
+start_on = 2006-10-13
+end_on = 2006-10-15
+seats = 1165
+attendees = 642
+
+[location]
+name = "Sporthalle Oberwerth"
+country_code = "de"
+city = "Koblenz"
+zip_code = "56075 "
+street = "Jupp-Gauchel-Str. 10"
+
+[links.website]
+url = "https://bk-lan.de/party/8"

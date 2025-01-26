@@ -1,0 +1,18 @@
+slug = "bk-lanxxl-13"
+title = "BK(XX)L #13"
+series_slug = "bk-lan"
+organizer_entity = "BK-LAN e.V."
+start_on = 2016-05-06
+end_on = 2016-05-08
+seats = 304
+attendees = 307
+
+[location]
+name = "Deutscher Michel Halle"
+country_code = "de"
+city = "Stromberg"
+zip_code = "55442"
+street = "Königsberger Straße 4a"
+
+[links.website]
+url = "https://bk-lan.de/party/23"
