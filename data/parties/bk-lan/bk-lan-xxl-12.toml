@@ -1,11 +1,11 @@
-slug = "bk-lanxxl-11"
-title = "BK(XX)L #11"
+slug = "bk-lan-xxl-12"
+title = "BK(XX)L #12"
 series_slug = "bk-lan"
 organizer_entity = "BK-LAN e.V."
-start_on = 2014-05-02
-end_on = 2014-05-04
+start_on = 2015-05-15
+end_on = 2015-05-17
 seats = 304
-attendees = 287
+attendees = 275
 
 [location]
 name = "Deutscher Michel Halle"
@@ -15,4 +15,4 @@ zip_code = "55442"
 street = "Königsberger Straße 4a"
 
 [links.website]
-url = "https://bk-lan.de/party/20"
+url = "https://bk-lan.de/party/22"

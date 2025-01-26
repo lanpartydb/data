@@ -1,11 +1,11 @@
-slug = "bk-lanxxl-2"
-title = "BK(XX)L #2"
+slug = "bk-lan-xxl-6"
+title = "BK(XX)L #6"
 series_slug = "bk-lan"
 organizer_entity = "BK-LAN e.V."
-start_on = 2005-05-14
-end_on = 2005-05-16
-seats = 501
-attendees = 357
+start_on = 2009-05-22
+end_on = 2009-05-24
+seats = 500
+attendees = 482
 
 [location]
 name = "Jakob-Kiefer-Halle"
@@ -15,4 +15,4 @@ zip_code = "55543"
 street = "Heidenmauer 12"
 
 [links.website]
-url = "https://bk-lan.de/party/6"
+url = "https://bk-lan.de/party/9"
