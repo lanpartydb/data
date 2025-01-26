@@ -11,7 +11,7 @@ attendees = 642
 name = "Sporthalle Oberwerth"
 country_code = "de"
 city = "Koblenz"
-zip_code = "56075 "
+zip_code = "56075"
 street = "Jupp-Gauchel-Str. 10"
 
 [links.website]
