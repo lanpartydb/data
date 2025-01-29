@@ -1,0 +1,20 @@
+slug = "zockparade-x"
+title = "ZockParade X"
+series_slug = "zockparade"
+organizer_entity = "NetQuarter e.V."
+start_on = 2006-02-03
+end_on = 2006-02-05
+seats = 280
+attendees = 192
+
+[location]
+name = "Festhalle Stutensee"
+country_code = "de"
+city = "Stutensee-Blankenloch"
+zip_code = "76297"
+street = "Badstraße 7"
+latitude = 49.06545
+longitude = 8.474226
+
+[links.website]
+url = "https://NetQuarter.org/"

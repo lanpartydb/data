@@ -1,0 +1,19 @@
+slug = "juze-combat-vi"
+title = "JuZe Combat VI"
+organizer_entity = "NetQuarter e.V."
+start_on = 2005-10-14
+end_on = 2005-10-16
+seats = 89
+attendees = 75
+
+[location]
+name = "Mehrzweckhalle Staffort"
+country_code = "de"
+city = "Stutensee-Staffort"
+zip_code = "76297"
+street = "Draisstraße 2A"
+latitude = 49.090503
+longitude = 8.506393
+
+[links.website]
+url = "https://NetQuarter.org/"

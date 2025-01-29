@@ -1,0 +1,20 @@
+slug = "zockparade-2008"
+title = "NetZone VIII"
+series_slug = "zockparade"
+organizer_entity = "NetQuarter e.V."
+start_on = 2008-10-31
+end_on = 2008-11-02
+seats = 174
+attendees = 140
+
+[location]
+name = "NCO Club"
+country_code = "de"
+city = "Karlsruhe"
+zip_code = "76149"
+street = "Delawarestraße 21"
+latitude = 49.028752
+longitude = 8.383563
+
+[links.website]
+url = "https://NetQuarter.org/"

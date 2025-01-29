@@ -1,0 +1,19 @@
+slug = "2for1"
+title = "2for1"
+organizer_entity = "NetQuarter e.V."
+start_on = 2009-09-11
+end_on = 2009-09-13
+seats = 466
+attendees = 309
+
+[location]
+name = "Aschingerhalle"
+country_code = "de"
+city = "Oberderdingen"
+zip_code = "75038"
+street = "An der Hessel 4"
+latitude = 49.064817
+longitude = 8.8067
+
+[links.website]
+url = "https://NetQuarter.org/"

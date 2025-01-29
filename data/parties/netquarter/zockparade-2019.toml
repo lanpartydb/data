@@ -1,0 +1,20 @@
+slug = "zockparade-2019"
+title = "ZockParade 2019"
+series_slug = "zockparade"
+organizer_entity = "NetQuarter e.V."
+start_on = 2019-11-01
+end_on = 2019-11-03
+seats = 165
+attendees = 147
+
+[location]
+name = "NCO Club"
+country_code = "de"
+city = "Karlsruhe"
+zip_code = "76149"
+street = "Delawarestraße 21"
+latitude = 49.028752
+longitude = 8.383563
+
+[links.website]
+url = "https://NetQuarter.org/"

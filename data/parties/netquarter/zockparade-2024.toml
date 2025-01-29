@@ -1,0 +1,20 @@
+slug = "zockparade-2024"
+title = "ZockParade 2024"
+series_slug = "zockparade"
+organizer_entity = "NetQuarter e.V."
+start_on = 2024-02-16
+end_on = 2024-02-18
+seats = 115
+attendees = 103
+
+[location]
+name = "NCO Club"
+country_code = "de"
+city = "Karlsruhe"
+zip_code = "76149"
+street = "Delawarestraße 21"
+latitude = 49.028752
+longitude = 8.383563
+
+[links.website]
+url = "https://NetQuarter.org/"

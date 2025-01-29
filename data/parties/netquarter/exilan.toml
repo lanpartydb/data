@@ -1,0 +1,19 @@
+slug = "exilan"
+title = "EXILan"
+organizer_entity = "NetQuarter e.V."
+start_on = 2006-04-21
+end_on = 2006-04-23
+seats = 149
+attendees = 118
+
+[location]
+name = "Stadthalle Breisach"
+country_code = "de"
+city = "Breisach am Rhein"
+zip_code = "79206"
+street = "Jahnstraße 7"
+latitude = 48.026057
+longitude = 7.581682
+
+[links.website]
+url = "https://NetQuarter.org/"
