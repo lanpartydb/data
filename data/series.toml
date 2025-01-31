@@ -236,3 +236,9 @@ country_codes = ["de"]
 slug = "wildefingerspiele"
 name = "Wildefingerspiele"
 country_codes = ["de"]
+
+[[series]]
+slug = "zockparade"
+name = "ZockParade"
+alternative_names = ["ZP"]
+country_codes = ["de"]
