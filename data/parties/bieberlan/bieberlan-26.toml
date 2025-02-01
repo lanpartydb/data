@@ -1,0 +1,17 @@
+slug = "bieberlan-26"
+title = "BieberLAN XXVI"
+series_slug = "bieberlan"
+organizer_entity = "Computer Club Südhessen e.V."
+start_on = 2011-06-10
+end_on = 2011-06-12
+seats = 90
+
+[location]
+name = "Saalbau Richen"
+country_code = "de"
+city = "Groß-Umstadt"
+zip_code = "64823"
+street = "Hauptstraße 33"
+
+[links.website]
+url = "https://www.bieberlan.de/index.php?content=event&action=showHistory&id=26"

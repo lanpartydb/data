@@ -1,0 +1,19 @@
+slug = "bieberlan-29"
+title = "BieberLAN XXIX"
+series_slug = "bieberlan"
+organizer_entity = "Computer Club Südhessen e.V."
+start_on = 2012-11-30
+end_on = 2012-12-02
+seats = 170
+
+[location]
+name = "Reichenberghalle"
+country_code = "de"
+city = "Reichelsheim"
+zip_code = "64385"
+street = "Konrad-Adenauer-Allee 1"
+latitude = 49.71365
+longitude = 8.84178
+
+[links.website]
+url = "https://www.bieberlan.de/index.php?content=event&action=showHistory&id=29"

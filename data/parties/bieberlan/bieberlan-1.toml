@@ -1,0 +1,17 @@
+slug = "bieberlan-1"
+title = "BieberLAN I"
+series_slug = "bieberlan"
+organizer_entity = "Computer Club Südhessen e.V."
+start_on = 2002-07-19
+end_on = 2002-07-22
+seats = 45
+
+[location]
+name = "Gemeindesaal"
+country_code = "de"
+city = "Niedernhausen/Fischbachtal"
+zip_code = "64405"
+street = "Darmstädter Str. 14"
+
+[links.website]
+url = "https://www.bieberlan.de/index.php?content=event&action=showHistory&id=1"

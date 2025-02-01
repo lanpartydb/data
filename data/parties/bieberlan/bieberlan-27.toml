@@ -1,0 +1,17 @@
+slug = "bieberlan-27"
+title = "BieberLAN XXVII"
+series_slug = "bieberlan"
+organizer_entity = "Computer Club Südhessen e.V."
+start_on = 2011-10-28
+end_on = 2011-10-30
+seats = 125
+
+[location]
+name = "Bürgerhaus"
+country_code = "de"
+city = "Fischbachtal"
+zip_code = "64405"
+street = "Darmstädter Str. 50A"
+
+[links.website]
+url = "https://www.bieberlan.de/index.php?content=event&action=showHistory&id=27"

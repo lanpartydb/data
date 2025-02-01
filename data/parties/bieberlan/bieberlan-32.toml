@@ -1,0 +1,20 @@
+slug = "bieberlan-32"
+title = "BieberLAN XXXII - Faster than Light"
+series_slug = "bieberlan"
+organizer_entity = "Computer Club Südhessen e.V."
+start_on = 2014-05-16
+end_on = 2014-05-18
+seats = 165
+attendees = 161
+
+[location]
+name = "Reichenberghalle"
+country_code = "de"
+city = "Reichelsheim"
+zip_code = "64385"
+street = "Konrad-Adenauer-Allee 1"
+latitude = 49.71365
+longitude = 8.84178
+
+[links.website]
+url = "https://www.bieberlan.de/index.php?content=event&action=showHistory&id=32"

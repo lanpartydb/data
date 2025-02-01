@@ -1,0 +1,20 @@
+slug = "bieberlan-38"
+title = "BieberLAN XXXVIII - I like the big ones"
+series_slug = "bieberlan"
+organizer_entity = "Computer Club Südhessen e.V."
+start_on = 2017-09-08
+end_on = 2017-09-10
+seats = 370
+attendees = 357
+
+[location]
+name = "Kulturhalle Rödermark"
+country_code = "de"
+city = "Rödermark / Ober-Roden"
+zip_code = "63322"
+street = "Dieburger Straße 27"
+latitude = 49.97624
+longitude = 8.82798
+
+[links.website]
+url = "https://www.bieberlan.de/index.php?content=event&action=showHistory&id=38"

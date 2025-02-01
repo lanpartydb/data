@@ -1,0 +1,17 @@
+slug = "bieberlan-11"
+title = "BieberLAN XI"
+series_slug = "bieberlan"
+organizer_entity = "Computer Club Südhessen e.V."
+start_on = 2005-01-07
+end_on = 2005-01-09
+seats = 108
+
+[location]
+name = "Bürgerhaus Brandau"
+country_code = "de"
+city = "Modautal"
+zip_code = "64397"
+street = "Römerberg 29"
+
+[links.website]
+url = "https://www.bieberlan.de/index.php?content=event&action=showHistory&id=11"

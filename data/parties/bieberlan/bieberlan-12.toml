@@ -1,0 +1,19 @@
+slug = "bieberlan-12"
+title = "BieberLAN XII"
+series_slug = "bieberlan"
+organizer_entity = "Computer Club Südhessen e.V."
+start_on = 2005-04-01
+end_on = 2005-04-03
+seats = 90
+
+[location]
+name = "TV-Halle Zeilhard"
+country_code = "de"
+city = "Reinheim"
+zip_code = "64354"
+street = "Walter-Kolb-Str. 8"
+latitude = 49.84365
+longitude = 8.79349
+
+[links.website]
+url = "https://www.bieberlan.de/index.php?content=event&action=showHistory&id=12"

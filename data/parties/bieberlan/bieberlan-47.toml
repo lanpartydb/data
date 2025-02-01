@@ -1,0 +1,20 @@
+slug = "bieberlan-47"
+title = "BieberLAN 47"
+series_slug = "bieberlan"
+organizer_entity = "Computer Club Südhessen e.V."
+start_on = 2024-10-18
+end_on = 2024-10-20
+seats = 385
+attendees = 385
+
+[location]
+name = "Kulturhalle Rödermark"
+country_code = "de"
+city = "Rödermark / Ober-Roden"
+zip_code = "63322"
+street = "Dieburger Straße 27"
+latitude = 49.97624
+longitude = 8.82798
+
+[links.website]
+url = "https://www.bieberlan.de/index.php?content=event&action=showHistory&id=48"

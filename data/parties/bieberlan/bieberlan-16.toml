@@ -1,0 +1,17 @@
+slug = "bieberlan-16"
+title = "BieberLAN XVI"
+series_slug = "bieberlan"
+organizer_entity = "Computer Club Südhessen e.V."
+start_on = 2006-04-07
+end_on = 2006-04-09
+seats = 40
+
+[location]
+name = "Bürgerhaus"
+country_code = "de"
+city = "Fischbachtal"
+zip_code = "64405"
+street = "Darmstädter Str. 50A"
+
+[links.website]
+url = "https://www.bieberlan.de/index.php?content=event&action=showHistory&id=16"

@@ -1,0 +1,20 @@
+slug = "bieberlan-40"
+title = "BieberLAN 40"
+series_slug = "bieberlan"
+organizer_entity = "Computer Club Südhessen e.V."
+start_on = 2018-09-28
+end_on = 2018-09-30
+seats = 359
+attendees = 342
+
+[location]
+name = "Stadthalle"
+country_code = "de"
+city = "Groß-Umstadt"
+zip_code = "64823"
+street = "Am Darmstädter Schloß 6"
+latitude = 49.86967
+longitude = 8.93069
+
+[links.website]
+url = "https://www.bieberlan.de/index.php?content=event&action=showHistory&id=40"

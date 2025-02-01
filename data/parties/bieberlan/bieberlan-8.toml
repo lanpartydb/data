@@ -1,0 +1,17 @@
+slug = "bieberlan-8"
+title = "BieberLAN VIII"
+series_slug = "bieberlan"
+organizer_entity = "Computer Club Südhessen e.V."
+start_on = 2004-04-09
+end_on = 2004-04-11
+seats = 108
+
+[location]
+name = "Bürgerhaus Brandau"
+country_code = "de"
+city = "Modautal"
+zip_code = "64397"
+street = "Römerberg 29"
+
+[links.website]
+url = "https://www.bieberlan.de/index.php?content=event&action=showHistory&id=8"

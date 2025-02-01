@@ -1,0 +1,17 @@
+slug = "bieberlan-23"
+title = "BieberLAN XXIII - Just 18"
+series_slug = "bieberlan"
+organizer_entity = "Computer Club Südhessen e.V."
+start_on = 2010-04-16
+end_on = 2010-04-18
+seats = 93
+
+[location]
+name = "Saalbau Richen"
+country_code = "de"
+city = "Groß-Umstadt"
+zip_code = "64823"
+street = "Hauptstraße 33"
+
+[links.website]
+url = "https://www.bieberlan.de/index.php?content=event&action=showHistory&id=23"

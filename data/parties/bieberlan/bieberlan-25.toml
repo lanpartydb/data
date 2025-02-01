@@ -1,0 +1,19 @@
+slug = "bieberlan-25"
+title = "BieberLAN XXV - Just cool down"
+series_slug = "bieberlan"
+organizer_entity = "Computer Club Südhessen e.V."
+start_on = 2010-12-10
+end_on = 2010-12-12
+seats = 340
+
+[location]
+name = "Stadthalle"
+country_code = "de"
+city = "Groß-Umstadt"
+zip_code = "64823"
+street = "Am Darmstädter Schloß 6"
+latitude = 49.86967
+longitude = 8.93069
+
+[links.website]
+url = "https://www.bieberlan.de/index.php?content=event&action=showHistory&id=25"
