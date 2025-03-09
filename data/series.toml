@@ -91,6 +91,11 @@ name = "Freestyle-LAN Zero"
 country_codes = ["at"]
 
 [[series]]
+slug = "frogbyte"
+name = "Frogbyte LAN Party"
+country_code = ["it"]
+
+[[series]]
 slug = "gamers-congress"
 name = "Gamers' Congress"
 country_codes = ["de"]

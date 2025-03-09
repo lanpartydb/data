@@ -1,0 +1,19 @@
+slug = "frogbyte-lan-party-3"
+title = "Froglite"
+series_slug = "frogbyte"
+organizer_entity = "Frogbyte ASD"
+start_on = 2015-11-21
+end_on = 2015-11-22
+attendees = 65
+
+[location]
+name = "Fiera di Pordenone"
+country_code = "it"
+city = "Pordenone"
+zip_code = "33170"
+street = "Viale Treviso 1, Padiglione 1"
+latitude = 45.94830
+longitude = 12.65645
+
+[links.website]
+url = "https://frogbyte.it"

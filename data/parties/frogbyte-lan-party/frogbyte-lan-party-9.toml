@@ -1,0 +1,19 @@
+slug = "frogbyte-lan-party-9"
+title = "Winter LAN 2021"
+series_slug = "frogbyte"
+organizer_entity = "Frogbyte ASD"
+start_on = 2021-11-20
+end_on = 2021-11-21
+attendees = 33
+
+[location]
+name = "Fiera di Pordenone"
+country_code = "it"
+city = "Pordenone"
+zip_code = "33170"
+street = "Viale Treviso 1, Padiglione 1"
+latitude = 45.94830
+longitude = 12.65645
+
+[links.website]
+url = "https://frogbyte.it"

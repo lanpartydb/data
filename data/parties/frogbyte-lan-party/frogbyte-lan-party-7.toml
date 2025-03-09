@@ -1,0 +1,19 @@
+slug = "frogbyte-lan-party-7"
+title = "Frogbyte LAN Party"
+series_slug = "frogbyte"
+organizer_entity = "Frogbyte ASD"
+start_on = 2019-04-19
+end_on = 2019-04-21
+attendees = 281
+
+[location]
+name = "Fiera di Pordenone"
+country_code = "it"
+city = "Pordenone"
+zip_code = "33170"
+street = "Viale Treviso 1, Padiglione 1"
+latitude = 45.94830
+longitude = 12.65645
+
+[links.website]
+url = "https://frogbyte.it"

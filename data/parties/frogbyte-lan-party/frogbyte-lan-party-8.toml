@@ -1,0 +1,10 @@
+slug = "frogbyte-lan-party-8"
+title = "Frogbyte Online Gaming Marathon"
+series_slug = "frogbyte"
+organizer_entity = "Frogbyte ASD"
+start_on = 2020-04-25
+end_on = 2020-04-26
+online = true
+
+[links.website]
+url = "https://frogbyte.it"
