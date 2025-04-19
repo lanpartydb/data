@@ -1,0 +1,19 @@
+slug = "gamers-congress-22"
+title = "Gamers Congress #22"
+series_slug = "gamers-congress"
+organizer_entity = "LAN Foundation e.V."
+start_on = 2025-04-04
+end_on = 2025-04-06
+seats = 150
+
+[location]
+name = "Ehemaliges Kloster Johannesbrunn"
+country_code = "de"
+city = "Johannesbrunn"
+postal_code = "84175"
+street = "Klosterstr. 1"
+latitude = 48.47797230752822
+longitude = 12.462374774947447
+
+[links.website]
+url = "https://www.gamers-congress.de/party/21"
