@@ -1,0 +1,19 @@
+slug = "northcon-2025"
+title = "NorthCon 2025"
+series_slug = "northcon"
+organizer_entity = "NorthCon e.V."
+start_on = 2025-10-16
+end_on = 2025-10-19
+seats = 1248
+
+[location]
+name = "Holstenhallen"
+country_code = "de"
+city = "Neumünster"
+postal_code = "24537"
+street = "Justus-von-Liebig-Str. 2-4"
+latitude = 54.09269
+longitude = 9.97664
+
+[links.website]
+url = "https://www.northcon.de/"
