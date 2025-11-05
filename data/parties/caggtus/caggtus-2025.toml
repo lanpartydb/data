@@ -1,0 +1,20 @@
+slug = "caggtus-2025"
+title = "CAGGTUS 2025"
+series_slug = "caggtus"
+organizer_entity = "Leipziger Messe GmbH"
+start_on = 2025-04-11
+end_on = 2025-04-13
+seats = 2100
+attendees = 2089
+
+[location]
+name = "Leipziger Messe"
+country_code = "de"
+city = "Leipzig"
+postal_code = "04356"
+street = "Messe-Allee 1"
+latitude = 51.396539
+longitude = 12.395663
+
+[links.website]
+url = "https://www.caggtus.de/"
