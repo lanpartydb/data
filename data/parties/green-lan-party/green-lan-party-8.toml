@@ -1,0 +1,19 @@
+slug = "green-lan-party-8"
+title = "Green LAN Party 8"
+series_slug = "green-lan-party"
+start_on = 2025-11-06
+end_on = 2025-11-09
+seats = 50
+attendees = 48
+
+[location]
+name = "Gehörlosenzentrum Villa Bremen"
+country_code = "de"
+city = "Bremen"
+postal_code = "28359"
+street = "Schwachhauser Heerstraße 266"
+latitude = 53.09155
+longitude = 8.86723
+
+[links.website]
+url = "https://green-lan.party/"
