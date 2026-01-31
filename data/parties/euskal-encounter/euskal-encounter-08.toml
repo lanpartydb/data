@@ -1,0 +1,13 @@
+slug = "euskal-8"
+title = "Euskal 8"
+series_slug = "euskal-encounter"
+start_on = 2000-07-22
+end_on = 2000-07-22
+seats = 900
+
+[location]
+country_code = "es"
+city = "Bilbo"
+
+[links.website]
+url = "https://euskalencounter.org/euskal8/"

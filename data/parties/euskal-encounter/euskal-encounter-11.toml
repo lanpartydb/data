@@ -1,0 +1,14 @@
+slug = "euskal-11"
+title = "Euskal 11"
+series_slug = "euskal-encounter"
+organizer_entity = ["Asociación Euskalamiga", "Fundación Euskaltel"]
+start_on = 2003-07-24
+end_on = 2003-07-27
+seats = 900
+
+[location]
+country_code = "es"
+city = "Bilbo"
+
+[links.website]
+url = "https://euskalencounter.org/euskal11/"

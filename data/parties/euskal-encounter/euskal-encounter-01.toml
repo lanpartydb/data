@@ -1,0 +1,10 @@
+slug = "euskal-amiga-party"
+title = "Euskal Amiga Party"
+series_slug = "euskal-encounter"
+start_on = 1994-08-06
+end_on = 1994-08-07
+seats = 25
+
+[location]
+country_code = "es"
+city = "Urretxu"   

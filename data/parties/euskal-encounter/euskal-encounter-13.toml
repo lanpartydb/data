@@ -1,0 +1,15 @@
+slug = "euskal-encounter-13"
+title = "Euskal Encounter 13"
+series_slug = "euskal-encounter"
+organizer_entity = ["Asociación Euskalamiga", "Fundación Euskaltel"]
+start_on = 2005-07-22
+end_on = 2005-07-25
+seats = 3072
+
+[location]
+name = "Bilbao Exhibition Centre (BEC)"
+country_code = "es"
+city = "Barakaldo"
+
+[links.website]
+url = "https://euskalencounter.org/euskal13/"

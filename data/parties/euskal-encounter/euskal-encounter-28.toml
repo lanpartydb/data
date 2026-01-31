@@ -1,0 +1,10 @@
+slug = "euskal-encounter-28"
+title = "Euskal Encounter 28"
+series_slug = "euskal-encounter"
+organizer_entity = ["Asociación Euskalamiga", "Fundación Euskaltel"]
+start_on = 2020-07-24
+end_on = 2020-07-26
+online = true
+
+[links.website]
+url = "https://ee28.euskalencounter.org/"

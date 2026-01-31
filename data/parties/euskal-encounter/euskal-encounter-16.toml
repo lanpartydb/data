@@ -1,0 +1,15 @@
+slug = "euskal-encounter-16"
+title = "Euskal Encounter 16"
+series_slug = "euskal-encounter"
+organizer_entity = ["Asociación Euskalamiga", "Fundación Euskaltel"]
+start_on = 2008-07-24
+end_on = 2008-07-27
+seats = 4096
+
+[location]
+name = "Bilbao Exhibition Centre (BEC)"
+country_code = "es"
+city = "Barakaldo"
+
+[links.website]
+url = "https://euskalencounter.org/euskal16/"

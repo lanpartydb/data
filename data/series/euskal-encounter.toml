@@ -1,0 +1,7 @@
+slug = "euskal-encounter"
+title = "Euskal Encounter"
+alternative_titles = ["Euskal Party", "Euskal Amiga Party"]
+country_codes = ["es"]
+
+[links.website]
+url = "https://www.euskalencounter.org/"

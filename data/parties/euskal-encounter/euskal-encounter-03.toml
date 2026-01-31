@@ -1,0 +1,10 @@
+slug = "euskal-party-3"
+title = "Euskal Party 3"
+series_slug = "euskal-encounter"
+start_on = 1995-10-12
+end_on = 1995-10-15
+seats = 200
+
+[location]
+country_code = "es"
+city = "Tolosa"
