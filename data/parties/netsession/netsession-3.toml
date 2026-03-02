@@ -1,0 +1,19 @@
+slug = "netsession-3"
+title = "Netsession 3"
+series_slug = "netsession"
+organizer_entity = "Simon Herz"
+start_on = 2000-08-18
+end_on = 2000-08-20
+seats = 60
+
+[location]
+name = "Spielvereinigung Zolling e.V."
+country_code = "de"
+city = "Zolling"
+postal_code = "85406"
+street = "Am Amperkanal 1"
+latitude = 48.44802
+longitude = 11.77444
+
+[links.website]
+url = "https://netsession.net/"
