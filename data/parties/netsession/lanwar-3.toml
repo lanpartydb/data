@@ -1,0 +1,19 @@
+slug = "lanware-3"
+title = "Lanware 3"
+series_slug = "netsession"
+organizer_entity = "Alexander Söhl"
+start_on = 1999-11-21
+end_on = 1999-11-23
+seats = 20
+
+[location]
+name = "Vereinsheim Neufinsing"
+country_code = "de"
+city = "Finsing"
+postal_code = "85464"
+street = "Buchenweg 6"
+latitude = 48.21925
+longitude = 11.80585
+
+[links.website]
+url = "https://netsession.net/"

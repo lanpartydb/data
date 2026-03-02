@@ -1,0 +1,20 @@
+slug = "netsession-19"
+title = "Netsession 19"
+series_slug = "netsession"
+organizer_entity = "Stefan Gruber"
+start_on = 2017-11-03
+end_on = 2017-11-05
+seats = 192
+attendees = 192
+
+[location]
+name = "Bürgerhaus Pliening"
+country_code = "de"
+city = "Pliening"
+postal_code = "85652"
+street = "Geltinger Str. 43"
+latitude = 48.19637
+longitude = 11.80611
+
+[links.website]
+url = "https://netsession.net/"
