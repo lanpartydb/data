@@ -1,0 +1,19 @@
+slug = "w2tj-36-01"
+title = "W2tJ v36.01"
+series_slug = "w2tj"
+organizer_entity = "LAN.party Service Stephan Schaffner"
+start_on = 2026-03-13
+end_on = 2026-03-15
+seats = 65
+
+[location]
+name = "Maximilian-Kolbe-Haus"
+country_code = "de"
+city = "Seligenstadt - Froschhausen"
+postal_code = "63500"
+street = "Anne-Frank-Str. 2"
+latitude = 50.05504
+longitude = 8.94255
+
+[links.website]
+url = "https://w2tj.net/"
