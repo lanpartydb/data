@@ -1,0 +1,14 @@
+slug = "dot-lan-2024"
+title = "DoT2k24"
+series_slug = "dot-lan"
+organizer_entity = "LANBUDDYS"
+start_on = 2024-09-13
+end_on = 2024-09-15
+attendees = 180
+
+[location]
+country_code = "at"
+city = "Braunau am Inn"
+
+[links.website]
+url = "https://www.dot-lan.at/"

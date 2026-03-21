@@ -1,0 +1,14 @@
+slug = "dot-lan-2004"
+title = "DoT2k4"
+series_slug = "dot-lan"
+start_on = 2004-01-01
+end_on = 2004-01-01
+attendees = 873
+
+[location]
+name = "Messe Ried (Halle 14/15)"
+country_code = "at"
+city = "Ried im Innkreis"
+
+[links.website]
+url = "https://www.dot-lan.at/"
