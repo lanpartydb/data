@@ -1,0 +1,19 @@
+slug = "wupperlan-2"
+title = "WupperLAN ]["
+series_slug = "wupperlan"
+start_on = 2001-11-16
+end_on = 2001-11-18
+seats = 120
+
+[location]
+name = "Fetenfabrik im Bayer-Sportpark Rutenbeck"
+country_code = "de"
+city = "Wuppertal"
+postal_code = "42329"
+street = "Unten Vorm Steeg"
+latitude = 51.2356702
+longitude = 7.0941582
+
+[links.website]
+url = "https://wutallan.net/index.php?action=teilnehmer&id=3"
+offline = true
