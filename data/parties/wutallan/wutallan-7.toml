@@ -1,0 +1,19 @@
+slug = "wutallan-7"
+title = "WuTalLAN Take-7"
+series_slug = "wutallan"
+start_on = 2003-11-28
+end_on = 2003-11-30
+seats = 72
+
+[location]
+name = "Schützenhalle Wuppertal-Beyenburg"
+country_code = "de"
+city = "Wuppertal"
+postal_code = "42399"
+street = "Beyenburger Furt 9"
+latitude = 51.249962
+longitude = 7.3035538
+
+[links.website]
+url = "https://wutallan.net/index.php?action=teilnehmer&id=20"
+offline = true
