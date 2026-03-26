@@ -1,0 +1,18 @@
+slug = "wupperlan-1"
+title = "WupperLAN"
+series_slug = "wupperlan"
+start_on = 2001-03-30
+end_on = 2001-04-01
+seats = 100
+
+[location]
+name = "Fetenfabrik im Bayer-Sportpark Rutenbeck"
+country_code = "de"
+city = "Wuppertal"
+postal_code = "42329"
+street = "Unten Vorm Steeg"
+latitude = 51.2356702
+longitude = 7.0941582
+
+[links.website]
+url = "https://die.erste.wupper-lan.de/"
