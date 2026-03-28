@@ -34,7 +34,7 @@ jobs:
         run: tar cJf data.tar.xz data/
 
       - name: Upload archive as artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           # The archive will additionally be wrapped in a ZIP archive.
           # This is a limitation of the `upload-artifact` action.
