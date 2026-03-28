@@ -1,0 +1,14 @@
+slug = "dot-lan-2009"
+title = "DoT2k9"
+series_slug = "dot-lan"
+start_on = 2009-01-01
+end_on = 2009-01-01
+attendees = 500
+
+[location]
+name = "Messe Ried (Halle 16/17)"
+country_code = "at"
+city = "Ried im Innkreis"
+
+[links.website]
+url = "https://www.dot-lan.at/"
