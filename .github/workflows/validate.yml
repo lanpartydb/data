@@ -39,5 +39,8 @@ jobs:
       - name: Validate party TOML files
         run: just validate-parties
 
+      - name: Ensure that slugs are unique
+        run: just validate-slugs
+
       - name: Ensure that parties are in the past
         run: just validate-party-dates
