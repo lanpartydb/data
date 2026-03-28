@@ -7,13 +7,13 @@ fetch-contributors:
 validate: && validate-series validate-parties validate-party-dates
 
 validate-series:
-    @echo "Validating series ..."
+    @echo "\nValidating series ..."
     @taplo lint --schema "file://"$PWD"/schemas/series.json" data/series/*.toml && taplo format --check data/series/*.toml
 
 validate-parties:
-    @echo "Validating parties ..."
+    @echo "\nValidating parties ..."
     @taplo lint --schema "file://"$PWD"/schemas/party.json" data/parties/**/*.toml && taplo format --check data/parties/**/*.toml
 
 validate-party-dates:
-    @echo "Validating party dates ..."
+    @echo "\nValidating party dates ..."
     @python3 tools/check_party_date.py data/parties/**/*.toml
