@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Install just
         run: |
@@ -22,7 +22,7 @@ jobs:
 
       - name: Setup cache for Taplo CLI executable
         id: cache-taplo
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: /usr/local/bin/taplo
           key: taplo-0.9.3
@@ -38,6 +38,9 @@ jobs:
 
       - name: Validate party TOML files
         run: just validate-parties
+
+      - name: Ensure that slugs are unique
+        run: just validate-series-slugs validate-party-slugs
 
       - name: Ensure that parties are in the past
         run: just validate-party-dates

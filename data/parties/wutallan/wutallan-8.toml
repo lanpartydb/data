@@ -1,0 +1,19 @@
+slug = "wutallan-8"
+title = "WuTalLAN Take-8"
+series_slug = "wutallan"
+start_on = 2005-08-26
+end_on = 2005-08-28
+seats = 60
+
+[location]
+name = "Ehem. Gaststätte Zum Seidenweber"
+country_code = "de"
+city = "Wuppertal"
+postal_code = "42329"
+street = "Kaiserstraße 39-41"
+latitude = 51.2335766
+longitude = 7.0748545
+
+[links.website]
+url = "https://wutallan.net/index.php?action=teilnehmer&id=22"
+offline = true
