@@ -3,7 +3,7 @@ title = "DoT2k"
 series_slug = "dot-lan"
 start_on = 2000-09-27
 end_on = 2000-09-29
-attendees = 120
+seats = 120
 
 [location]
 name = "Messe Ried (Halle 13)"

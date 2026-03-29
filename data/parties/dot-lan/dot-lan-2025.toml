@@ -4,7 +4,7 @@ series_slug = "dot-lan"
 organizer_entity = "LANBUDDYS"
 start_on = 2025-09-19
 end_on = 2025-09-21
-attendees = 300
+seats = 300
 
 [location]
 name = "Messe Ried (Halle 18)"

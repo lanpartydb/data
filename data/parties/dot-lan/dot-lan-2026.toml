@@ -4,7 +4,7 @@ series_slug = "dot-lan"
 organizer_entity = "LANMAKERS"
 start_on = 2025-09-18
 end_on = 2025-09-20
-attendees = 348
+seats = 348
 
 [location]
 name = "Messe Ried (Halle 18)"
