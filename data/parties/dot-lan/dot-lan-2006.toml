@@ -1,8 +1,8 @@
 slug = "dot-lan-2006"
 title = "DoT2k6"
 series_slug = "dot-lan"
-start_on = 2006-01-01
-end_on = 2006-01-01
+start_on = 2006-09-01
+end_on = 2006-09-03
 attendees = 400
 
 [location]
