@@ -1,9 +1,9 @@
 slug = "dot-lan-2001"
 title = "DoT2k1"
 series_slug = "dot-lan"
-start_on = 2001-01-01
-end_on = 2001-01-01
-attendees = 220
+start_on = 2001-07-27
+end_on = 2001-07-29
+seats = 220
 
 [location]
 name = "Messe Ried (Halle 17)"

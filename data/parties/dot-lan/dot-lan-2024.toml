@@ -4,7 +4,7 @@ series_slug = "dot-lan"
 organizer_entity = "LANBUDDYS"
 start_on = 2024-09-13
 end_on = 2024-09-15
-attendees = 180
+seats = 180
 
 [location]
 country_code = "at"
