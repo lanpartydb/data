@@ -1,0 +1,14 @@
+slug = "dot-lite-2005-1"
+title = "DoT Lite #1"
+series_slug = "dot-lan"
+start_on = 2005-01-28
+end_on = 2005-01-30
+seats = 100
+
+[location]
+name = "Messe Ried (Halle 17)"
+country_code = "at"
+city = "Ried im Innkreis"
+
+[links.website]
+url = "https://www.dot-lan.at/"
