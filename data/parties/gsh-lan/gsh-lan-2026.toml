@@ -1,0 +1,17 @@
+slug = "gsh-lan-2026"
+title = "GSH 2026"
+series_slug = "gsh-lan"
+start_on = 2026-03-26
+end_on = 2026-03-29
+seats = 165
+attendees = 139
+
+[location]
+name = "Aula des Schulzentrum I"
+country_code = "de"
+city = "Garbsen"
+postal_code = "30823"
+street = "Planetenring 7"
+
+[links.website]
+url = "https://www.gsh-lan.com/party/?do=event&id=34"
