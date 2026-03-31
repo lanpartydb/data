@@ -3,7 +3,8 @@ title = "GSH 2019 #2"
 series_slug = "gsh-lan"
 start_on = 2019-10-11
 end_on = 2019-10-13
-seats = 618
+seats = 703
+attendees = 570
 
 [location]
 name = "Rudolf-Harbig-Halle & Geschwister-Scholl-Gymnasium"

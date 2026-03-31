@@ -3,7 +3,8 @@ title = "GSH 2014 #2"
 series_slug = "gsh-lan"
 start_on = 2014-10-31
 end_on = 2014-11-02
-seats = 656
+seats = 909
+attendees = 657
 
 [location]
 name = "Rudolf-Harbig-Halle & Sporthalle am Hespe"
