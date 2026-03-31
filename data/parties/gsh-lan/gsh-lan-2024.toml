@@ -1,0 +1,17 @@
+slug = "gsh-lan-2024"
+title = "GSH 2024"
+series_slug = "gsh-lan"
+start_on = 2024-03-21
+end_on = 2024-03-24
+seats = 328
+attendees = 255
+
+[location]
+name = "Rudolf-Harbig-Halle & Geschwister-Scholl-Gymnasium"
+country_code = "de"
+city = "Garbsen"
+postal_code = "30827"
+street = "Ludwigstraße 5"
+
+[links.website]
+url = "https://www.gsh-lan.com/party/?do=event&id=31"
