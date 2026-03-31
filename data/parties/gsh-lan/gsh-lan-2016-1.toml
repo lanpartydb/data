@@ -3,7 +3,8 @@ title = "GSH 2016 #1"
 series_slug = "gsh-lan"
 start_on = 2016-04-01
 end_on = 2016-04-03
-seats = 618
+seats = 873
+attendees = 618
 
 [location]
 name = "Rudolf-Harbig-Halle & Geschwister-Scholl-Gymnasium"
