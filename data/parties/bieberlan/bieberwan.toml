@@ -4,7 +4,6 @@ series_slug = "bieberlan"
 organizer_entity = "Computer Club Südhessen e.V."
 start_on = 2020-03-27
 end_on = 2020-03-29
-seats = 500
 attendees = 240
 online = true
 
