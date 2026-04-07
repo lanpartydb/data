@@ -1,0 +1,20 @@
+slug = "nfrag-4"
+title = "N-Frag 4"
+series_slug = "nfrag"
+organizer_entity = "NNGA e.V."
+start_on = 2004-05-14
+end_on = 2004-05-16
+seats = 672
+
+[location]
+name = "Weser-Ems-Halle Oldenburg"
+country_code = "de"
+city = "Oldenburg"
+postal_code = "26123"
+street = "Europaplatz 12"
+latitude = 53.14686996925026
+longitude = 8.22757973889506
+
+[links.website]
+url = "http://www.nfrag.de/"
+offline = true

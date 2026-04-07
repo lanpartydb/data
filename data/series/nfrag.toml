@@ -1,0 +1,7 @@
+slug = "nfrag"
+title = "N-Frag"
+country_codes = ["de"]
+
+[links.website]
+url = "http://www.nfrag.de/"
+offline = true
