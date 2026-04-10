@@ -35,7 +35,7 @@ Available libraries to work with the data format:
 
 | Repository | Programming Language | Supported Format Version |
 | - | - | - |
-| https://github.com/lanpartydb/lib-python | Python | 0.11 |
+| https://github.com/lanpartydb/lib-python | Python | 0.12 |
 
 
 ## How to Contribute
