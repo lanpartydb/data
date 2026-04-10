@@ -4,7 +4,8 @@ on:
   # Allows to call workflow from another workflow
   workflow_call:
 
-permissions: {}
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
   build-data-archive:
