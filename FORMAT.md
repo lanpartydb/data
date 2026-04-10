@@ -29,6 +29,9 @@ A series *must* specify:
   filesystem. It may only contain lower-case latin characters, numbers, and
   dashes.
 * A `title`, which does not have the slug's limitations.
+* `country_codes`, which is a non-empty list of two-letter [ISO 3166-1
+  alpha-2](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)
+  country codes.
 
 A series *may* have:
 
