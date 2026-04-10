@@ -100,7 +100,7 @@ A party *may* have:
   offered, not the number of attendees.
 * A number of `attendees`. This should be the number of attendees the party
   had, or the number of tickets sold if only that information is available.
-* `online = true`, *if* the party was online-only (e.g. during a pandemic). In
+* `online_only = true`, *if* the party was online-only (e.g. during a pandemic). In
   this case, the `location` section must not be provided.
 * A `location` section; see below.
 * A `links` section; see below.
@@ -170,6 +170,11 @@ url = "https://www.awesomelan.example/"
 
 
 ## Changelog
+
+
+### 0.12 (2026-04-10)
+
+* Rename party property `online` to `online_only`.
 
 
 ### 0.11 (2025-12-13)

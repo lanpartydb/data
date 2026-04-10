@@ -4,7 +4,7 @@ series_slug = "euskal-encounter"
 organizer_entity = ["Asociación Euskalamiga", "Fundación Euskaltel"]
 start_on = 2020-07-24
 end_on = 2020-07-26
-online = true
+online_only = true
 
 [links.website]
 url = "https://ee28.euskalencounter.org/"

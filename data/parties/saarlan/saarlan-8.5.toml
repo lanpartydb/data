@@ -4,7 +4,7 @@ series_slug = "saarlan"
 organizer_entity = "SaarLAN e.V."
 start_on = 2020-04-10
 end_on = 2020-04-10
-online = true
+online_only = true
 
 [links.website]
 url = "https://www.saar-lan.de/party/15"

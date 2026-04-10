@@ -40,7 +40,7 @@
       "type": "integer",
       "minimum": 2
     },
-    "online": {
+    "online_only": {
       "type": "boolean"
     },
     "location": {

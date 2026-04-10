@@ -5,7 +5,7 @@ organizer_entity = "Computer Club Südhessen e.V."
 start_on = 2020-03-27
 end_on = 2020-03-29
 attendees = 240
-online = true
+online_only = true
 
 [links.website]
 url = "https://www.bieberlan.de/index.php?content=event&action=showHistory&id=43"
