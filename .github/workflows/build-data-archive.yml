@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
 
       - name: Install just
         run: |
@@ -34,7 +34,7 @@ jobs:
         run: tar cJf data.tar.xz data/
 
       - name: Upload archive as artifact
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6.0.0
         with:
           # The archive will additionally be wrapped in a ZIP archive.
           # This is a limitation of the `upload-artifact` action.
