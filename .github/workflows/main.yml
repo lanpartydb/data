@@ -21,4 +21,6 @@ jobs:
   build-data-archive:
     needs: validate
     uses: ./.github/workflows/build-data-archive.yml
+    permissions:
+      contents: write
     if: ${{ github.ref_name == 'main' }}
