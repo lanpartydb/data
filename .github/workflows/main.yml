@@ -19,5 +19,4 @@ jobs:
   build-data-archive:
     needs: validate
     uses: ./.github/workflows/build-data-archive.yml
-    uses: GitHubSecurityLab/actions-permissions/monitor@v1
     if: ${{ github.ref_name == 'main' }}
