@@ -168,6 +168,21 @@ longitude = 8.25632
 url = "https://www.awesomelan.example/"
 ```
 
+Online-only party example:
+
+```toml
+slug = "awesome-wan-2020"
+title = "Awesome WAN 2020"
+series_slug = "awesome-lan"
+organizer_entity = "Awesome LAN e.V."
+start_on = 2020-06-26
+end_on = 2020-06-28
+online_only = true
+
+[links.website]
+url = "https://www.awesomelan.example/wan-2020/"
+```
+
 
 ## Changelog
 
