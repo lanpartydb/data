@@ -19,4 +19,4 @@ jobs:
   build-data-archive:
     needs: validate
     uses: ./.github/workflows/build-data-archive.yml
-    if: ${{ github.ref_name == 'main' }}
+    #if: ${{ github.ref_name == 'main' }}
