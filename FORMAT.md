@@ -96,12 +96,12 @@ A party *may* have:
   significantly changed at some point. If its just "a bunch of people" for the
   duration of the party, you can just leave it out. Can be a single string or
   an array of multiple strings.
+* `online_only = true`, *if* the party was online-only (e.g. during a pandemic). In
+  this case, the `location` section must not be provided.
 * A number of `seats`. This should be the number of seats the party actually
   offered, not the number of attendees.
 * A number of `attendees`. This should be the number of attendees the party
   had, or the number of tickets sold if only that information is available.
-* `online_only = true`, *if* the party was online-only (e.g. during a pandemic). In
-  this case, the `location` section must not be provided.
 * A `location` section; see below.
 * A `links` section; see below.
 

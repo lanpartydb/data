@@ -32,6 +32,9 @@
     "end_on": {
       "type": "string"
     },
+    "online_only": {
+      "type": "boolean"
+    },
     "seats": {
       "type": "integer",
       "minimum": 2
@@ -39,9 +42,6 @@
     "attendees": {
       "type": "integer",
       "minimum": 2
-    },
-    "online_only": {
-      "type": "boolean"
     },
     "location": {
       "type": "object",
