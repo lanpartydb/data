@@ -1,0 +1,6 @@
+slug = "oldenbyte"
+title = "Oldenbyte"
+country_codes = ["de"]
+
+[links.website]
+url = "www.oldenbyte.de"
