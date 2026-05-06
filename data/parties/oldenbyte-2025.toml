@@ -1,0 +1,20 @@
+slug = "oldenbyte-2025"
+title = "Oldenbyte LAN 2025"
+series_slug = "oldenbyte"
+organizer_entity = "Oldenbyte e.V."
+start_on = 2025-09-12
+end_on = 2025-09-14
+seats = 96
+attendees = 78
+
+[location]
+name = "Hallig Hanken"
+country_code = "de"
+city = "Oldenburg"
+postal_code = "26125"
+street = "August-Hanken-Str. 24"
+latitude = 53.16211226075848
+longitude = 8.254933170573528
+
+[links.website]
+url = "https://www.oldenbyte.de/"
