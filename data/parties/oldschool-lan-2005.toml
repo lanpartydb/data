@@ -1,0 +1,21 @@
+slug = "oldschool-lan-2005"
+title = "Oldschool-Lan ByeBye"
+series_slug = "oldschool-lan"
+organizer_entity = "Oldschool Lan e.V."
+start_on = 2005-07-08
+end_on = 2005-07-10
+seats = 300
+attendees = 257
+
+[location]
+name = "Ricarda-Huch-Schule"
+country_code = "de"
+city = "Braunschweig"
+postal_code = "38106"
+street = "Mendelssohnstr. 6"
+latitude = 52.2792423557862
+longitude = 10.547980174540086
+
+[links.website]
+url = "www.oldschool-lan.de"
+offline = true
