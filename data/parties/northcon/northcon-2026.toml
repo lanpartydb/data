@@ -1,0 +1,19 @@
+slug = "northcon-2026"
+title = "NorthCon 2026"
+series_slug = "northcon"
+organizer_entity = "NorthCon e.V."
+start_on = 2026-10-01
+end_on = 2026-10-04
+seats = 1248
+
+[location]
+name = "Holstenhallen"
+country_code = "de"
+city = "Neumünster"
+postal_code = "24537"
+street = "Justus-von-Liebig-Str. 2-4"
+latitude = 54.09269
+longitude = 9.97664
+
+[links.website]
+url = "https://www.northcon.de/"

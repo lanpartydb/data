@@ -1,0 +1,20 @@
+slug = "bieberlan-50"
+title = "BieberLAN 50"
+series_slug = "bieberlan"
+organizer_entity = "Computer Club Südhessen e.V."
+start_on = 2026-06-04
+end_on = 2026-06-07
+seats = 672
+attendees = 672
+
+[location]
+name = "Eissporthalle Frankfurt"
+country_code = "de"
+city = "Frankfurt am Main"
+postal_code = "60386"
+street = "Am Bornheimer Hang 4"
+latitude = 50.1265
+longitude = 8.7185
+
+[links.website]
+url = "https://www.bieberlan.de/index.php?content=event&action=showHistory&id=51"
