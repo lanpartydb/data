@@ -1,0 +1,20 @@
+slug = "lanarena-die-karawane-zieht-weiter"
+title = "LANarena – Die Karawane zieht weiter"
+series_slug = "lanarena"
+organizer_entity = "Team LANarena"
+start_on = 2004-09-03
+end_on = 2004-09-05
+seats = 686
+attendees = 396
+
+[location]
+name = "Halle 39"
+country_code = "de"
+city = "Hildesheim"
+postal_code = "31137"
+street = "Schinkelstraße 7"
+latitude = 52.17484198362262
+longitude = 9.941030568718988
+
+[links.website]
+url = "https://www.lanarena.de/party/25/"

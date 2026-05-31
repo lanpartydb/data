@@ -1,0 +1,20 @@
+slug = "lanoramic"
+title = "Lanoramic"
+series_slug = "lanarena"
+organizer_entity = "Team LANarena"
+start_on = 2006-09-01
+end_on = 2006-09-03
+seats = 141
+attendees = 55
+
+[location]
+name = "Panoramic Hotel Harz"
+country_code = "de"
+city = "Bad Lauterberg"
+postal_code = "37431"
+street = "Dietrichstal 1"
+latitude = 51.63737573031211
+longitude = 10.49198821054144
+
+[links.website]
+url = "https://www.lanarena.de/party/35/"

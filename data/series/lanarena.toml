@@ -1,0 +1,6 @@
+slug = "lanarena"
+title = "LANarena"
+country_codes = ["de"]
+
+[links.website]
+url = "https://www.lanarena.de/"

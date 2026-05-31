@@ -1,0 +1,20 @@
+slug = "lanarena-14"
+title = "LANarena 1110"
+series_slug = "lanarena"
+organizer_entity = "Team LANarena"
+start_on = 2007-09-07
+end_on = 2007-09-09
+seats = 618
+attendees = 401
+
+[location]
+name = "Harzlandhalle Ilsenburg"
+country_code = "de"
+city = "Ilsenburg"
+postal_code = "38871"
+street = "Harzburger Straße 24"
+latitude = 51.87203525314598
+longitude = 10.677104142063556
+
+[links.website]
+url = "https://www.lanarena.de/party/43/"

@@ -1,0 +1,20 @@
+slug = "lanarena-irgendwas-ist-ja-immer"
+title = "LANarena – Irgendwas ist ja immer …"
+series_slug = "lanarena"
+organizer_entity = "Team LANarena"
+start_on = 2005-02-11
+end_on = 2005-02-13
+seats = 666
+attendees = 591
+
+[location]
+name = "Harzlandhalle Ilsenburg"
+country_code = "de"
+city = "Ilsenburg"
+postal_code = "38871"
+street = "Harzburger Straße 24"
+latitude = 51.87203525314598
+longitude = 10.677104142063556
+
+[links.website]
+url = "https://www.lanarena.de/party/26/"

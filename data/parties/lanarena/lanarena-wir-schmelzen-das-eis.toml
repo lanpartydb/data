@@ -1,0 +1,20 @@
+slug = "lanarena-wir-schmelzen-das-eis"
+title = "LANarena – Wir schmelzen das Eis"
+series_slug = "lanarena"
+organizer_entity = "Team LANarena"
+start_on = 2002-09-06
+end_on = 2002-09-08
+seats = 600
+attendees = 546
+
+[location]
+name = "Eissporthalle am Salzgittersee"
+country_code = "de"
+city = "Salzgitter"
+postal_code = "38228"
+street = "Humboldtallee 50"
+latitude = 52.14969215054034
+longitude = 10.302772289470035
+
+[links.website]
+url = "https://www.lanarena.de/party/2/"

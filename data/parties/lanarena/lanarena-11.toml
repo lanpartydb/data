@@ -1,0 +1,20 @@
+slug = "lanarena-11"
+title = "LANarena!!!11"
+series_slug = "lanarena"
+organizer_entity = "Team LANarena"
+start_on = 2006-01-13
+end_on = 2006-01-15
+seats = 403
+attendees = 363
+
+[location]
+name = "CD Kaserne"
+country_code = "de"
+city = "Celle"
+postal_code = "29221"
+street = "Hannoversche Straße 30b"
+latitude = 52.61531463076776
+longitude = 10.0811371931415
+
+[links.website]
+url = "https://www.lanarena.de/party/32/"

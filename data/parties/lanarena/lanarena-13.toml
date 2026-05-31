@@ -1,0 +1,20 @@
+slug = "lanarena-13"
+title = "LANarena – Tridecim"
+series_slug = "lanarena"
+organizer_entity = "Team LANarena"
+start_on = 2007-02-16
+end_on = 2007-02-18
+seats = 610
+attendees = 496
+
+[location]
+name = "Harzlandhalle Ilsenburg"
+country_code = "de"
+city = "Ilsenburg"
+postal_code = "38871"
+street = "Harzburger Straße 24"
+latitude = 51.87203525314598
+longitude = 10.677104142063556
+
+[links.website]
+url = "https://www.lanarena.de/party/38/"
