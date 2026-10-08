@@ -10,7 +10,7 @@ attendees = 308
 [location]
 name = "Kulturhalle Rödermark"
 country_code = "de"
-city = "Rödermark / Ober-Roden"
+city = "Rödermark/Ober-Roden"
 postal_code = "63322"
 street = "Dieburger Straße 27"
 latitude = 49.97624
