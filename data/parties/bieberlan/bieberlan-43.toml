@@ -5,7 +5,7 @@ organizer_entity = "Computer Club Südhessen e.V."
 start_on = 2022-09-30
 end_on = 2022-10-02
 seats = 170
-attendees = 165
+attendees = 157
 
 [location]
 name = "Reichenberghalle"

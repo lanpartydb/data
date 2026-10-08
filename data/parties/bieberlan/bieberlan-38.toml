@@ -5,7 +5,7 @@ organizer_entity = "Computer Club Südhessen e.V."
 start_on = 2017-09-08
 end_on = 2017-09-10
 seats = 370
-attendees = 357
+attendees = 350
 
 [location]
 name = "Kulturhalle Rödermark"

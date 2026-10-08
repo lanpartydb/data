@@ -4,8 +4,8 @@ series_slug = "bieberlan"
 organizer_entity = "Computer Club Südhessen e.V."
 start_on = 2026-06-04
 end_on = 2026-06-07
-seats = 672
-attendees = 672
+seats = 662
+attendees = 561
 
 [location]
 name = "Eissporthalle Frankfurt"

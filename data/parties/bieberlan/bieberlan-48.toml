@@ -5,7 +5,7 @@ organizer_entity = "Computer Club Südhessen e.V."
 start_on = 2025-04-11
 end_on = 2025-04-13
 seats = 385
-attendees = 385
+attendees = 382
 
 [location]
 name = "Kulturhalle Rödermark"
