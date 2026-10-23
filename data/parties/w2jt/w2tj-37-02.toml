@@ -1,0 +1,20 @@
+slug = "w2tj-37-02"
+title = "W2tJ v37.02"
+series_slug = "w2tj"
+organizer_entity = "LAN.party Service Stephan Schaffner"
+start_on = 2026-10-16
+end_on = 2026-10-18
+seats = 98
+attendees = 52
+
+[location]
+name = "Radsporthalle Klein-Krotzenburg"
+country_code = "Deutschland"
+city = "Klein-Krotzenburg"
+postal_code = "63512"
+street = "Uferstr. 19"
+latitude = 50.07748027152339
+longitude = 8.958502263310825
+
+[links.website]
+url = "https://w2tj.net"
