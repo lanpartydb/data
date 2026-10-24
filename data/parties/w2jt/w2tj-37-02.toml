@@ -9,7 +9,7 @@ attendees = 52
 
 [location]
 name = "Radsporthalle Klein-Krotzenburg"
-country_code = "Deutschland"
+country_code = "de"
 city = "Klein-Krotzenburg"
 postal_code = "63512"
 street = "Uferstr. 19"
@@ -17,4 +17,4 @@ latitude = 50.07748027152339
 longitude = 8.958502263310825
 
 [links.website]
-url = "https://w2tj.net"
+url = "https://w2tj.net/"
