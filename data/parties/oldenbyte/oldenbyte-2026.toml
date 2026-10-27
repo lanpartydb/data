@@ -1,0 +1,20 @@
+slug = "oldenbyte-2026"
+title = "Oldenbyte 2026"
+series_slug = "Oldenbyte"
+organizer_entity = "Oldenbyte e.V."
+start_on = 2026-08-28
+end_on = 2026-08-30
+seats = 130
+attendees = 62
+
+[location]
+name = "Hallig Hanken"
+country_code = "de"
+city = "Oldenburg"
+postal_code = "26125"
+street = "August-Hanken-Str. 24"
+latitude = 53.16211226075848
+longitude = 8.254933170573528
+
+[links.website]
+url = "www.oldenbyte.de"
