@@ -1,0 +1,19 @@
+slug = "junien-28"
+title = "['ju:nien] XXVIII - 28 Juniens later"
+series_slug = "junien"
+organizer_entity = "CNC e.V."
+start_on = 2026-10-23
+end_on = 2026-10-25
+seats = 682
+
+[location]
+name = "Stadthalle Hagen"
+country_code = "de"
+city = "Hagen"
+postal_code = "58093"
+street = "Wasserloses Tal 2"
+latitude = 51.35312
+longitude = 7.48465
+
+[links.website]
+url = "https://www.junien.de/party/28/"
