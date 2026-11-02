@@ -1,0 +1,13 @@
+slug = "euskal-9"
+title = "Euskal 9"
+series_slug = "euskal-encounter"
+start_on = 2001-07-26
+end_on = 2001-07-29
+seats = 1200
+
+[location]
+country_code = "es"
+city = "Gasteiz"
+
+[links.website]
+url = "https://euskalencounter.org/euskal9/"

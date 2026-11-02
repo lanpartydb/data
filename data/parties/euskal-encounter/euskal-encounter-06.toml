@@ -1,0 +1,10 @@
+slug = "euskal-party-6"
+title = "Euskal Party 6"
+series_slug = "euskal-encounter"
+start_on = 1998-07-24
+end_on = 1998-07-26
+seats = 425
+
+[location]
+country_code = "es"
+city = "Donostia"

@@ -1,0 +1,10 @@
+slug = "euskal-amiga-party-2"
+title = "Euskal Amiga Party 2"
+series_slug = "euskal-encounter"
+start_on = 1994-12-27
+end_on = 1994-12-29
+seats = 80
+
+[location]
+country_code = "es"
+city = "Legazpi"

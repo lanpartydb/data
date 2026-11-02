@@ -1,0 +1,17 @@
+slug = "ezgg-lan-1"
+title = "EZGG LAN - Edition 1.0"
+series_slug = "ezgg-lan"
+organizer_entity = "Einfach Zocken Gaming Gesellschaft e.V."
+start_on = 2026-05-08
+end_on = 2026-05-10
+seats = 56
+
+[location]
+name = "DGH Donsbach"
+country_code = "de"
+city = "Donsbach"
+postal_code = "35686"
+street = "Rudolf-Braas-Straße 1"
+
+[links.website]
+url = "https://verwaltung.ezgg-ev.de/adm_program/modules/photos/photos.php?photo_uuid=9022b270-be58-41a3-b2fd-51be34308f3c"

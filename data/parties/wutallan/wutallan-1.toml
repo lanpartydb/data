@@ -1,0 +1,19 @@
+slug = "wutallan-1"
+title = "WuTalLAN Take-1"
+series_slug = "wutallan"
+start_on = 2001-08-24
+end_on = 2001-08-26
+seats = 120
+
+[location]
+name = "Fetenfabrik im Bayer-Sportpark Rutenbeck"
+country_code = "de"
+city = "Wuppertal"
+postal_code = "42329"
+street = "Unten Vorm Steeg"
+latitude = 51.2356702
+longitude = 7.0941582
+
+[links.website]
+url = "https://wutallan.net/index.php?action=teilnehmer&id=1"
+offline = true

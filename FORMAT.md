@@ -29,6 +29,9 @@ A series *must* specify:
   filesystem. It may only contain lower-case latin characters, numbers, and
   dashes.
 * A `title`, which does not have the slug's limitations.
+* `country_codes`, which is a non-empty list of two-letter [ISO 3166-1
+  alpha-2](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)
+  country codes.
 
 A series *may* have:
 
@@ -93,12 +96,12 @@ A party *may* have:
   significantly changed at some point. If its just "a bunch of people" for the
   duration of the party, you can just leave it out. Can be a single string or
   an array of multiple strings.
+* `online_only = true`, *if* the party was online-only (e.g. during a pandemic). In
+  this case, the `location` section must not be provided.
 * A number of `seats`. This should be the number of seats the party actually
   offered, not the number of attendees.
 * A number of `attendees`. This should be the number of attendees the party
   had, or the number of tickets sold if only that information is available.
-* `online = true`, *if* the party was online-only (e.g. during a pandemic). In
-  this case, the `location` section must not be provided.
 * A `location` section; see below.
 * A `links` section; see below.
 
@@ -165,8 +168,28 @@ longitude = 8.25632
 url = "https://www.awesomelan.example/"
 ```
 
+Online-only party example:
+
+```toml
+slug = "awesome-wan-2020"
+title = "Awesome WAN 2020"
+series_slug = "awesome-lan"
+organizer_entity = "Awesome LAN e.V."
+start_on = 2020-06-26
+end_on = 2020-06-28
+online_only = true
+
+[links.website]
+url = "https://www.awesomelan.example/wan-2020/"
+```
+
 
 ## Changelog
+
+
+### 0.12 (2026-04-10)
+
+* Rename party property `online` to `online_only`.
 
 
 ### 0.11 (2025-12-13)

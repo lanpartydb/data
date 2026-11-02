@@ -1,0 +1,7 @@
+slug = "oldschool-lan"
+title = "Oldschool-Lan"
+country_codes = ["de"]
+
+[links.website]
+url = "http://www.lan-oldschool.de/"
+offline = true

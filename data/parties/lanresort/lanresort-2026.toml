@@ -1,0 +1,19 @@
+slug = "lanresort-2026"
+title = "LANresort 2026"
+series_slug = "lanresort"
+organizer_entity = "NorthCon e.V."
+start_on = 2026-04-30
+end_on = 2026-05-04
+seats = 354
+
+[location]
+name = "Center Parcs Bispinger Heide"
+country_code = "de"
+city = "Bispingen"
+postal_code = "29646"
+street = "Töpinger Straße 69"
+latitude = 53.0666
+longitude = 10.00084
+
+[links.website]
+url = "https://www.lanresort.de/"

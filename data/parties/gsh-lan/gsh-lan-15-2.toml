@@ -3,7 +3,8 @@ title = "GSH #15.2"
 series_slug = "gsh-lan"
 start_on = 2008-10-17
 end_on = 2008-10-19
-seats = 280
+seats = 404
+attendees = 261
 
 [location]
 name = "Rudolf-Harbig-Halle"

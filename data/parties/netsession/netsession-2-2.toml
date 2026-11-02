@@ -1,0 +1,20 @@
+slug = "netsession-2-2"
+title = "Netsession 2.2"
+series_slug = "netsession"
+organizer_entity = "Netsession e.V."
+start_on = 2024-11-22
+end_on = 2024-11-24
+seats = 158
+attendees = 146
+
+[location]
+name = "Feststadl Aschheim"
+country_code = "de"
+city = "Aschheim"
+postal_code = "85609"
+street = "Eichendorffstr. 10"
+latitude = 48.16508
+longitude = 11.72358
+
+[links.website]
+url = "https://netsession.net/"

@@ -1,0 +1,20 @@
+slug = "caggtus-2026"
+title = "CAGGTUS 2026"
+series_slug = "caggtus"
+organizer_entity = "Leipziger Messe GmbH"
+start_on = 2026-04-17
+end_on = 2026-04-19
+seats = 2360
+attendees = 2300
+
+[location]
+name = "Leipziger Messe"
+country_code = "de"
+city = "Leipzig"
+postal_code = "04356"
+street = "Messe-Allee 1"
+latitude = 51.396539
+longitude = 12.395663
+
+[links.website]
+url = "https://www.caggtus.de/"

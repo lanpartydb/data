@@ -1,0 +1,19 @@
+slug = "netsession-12"
+title = "Netsession 12"
+series_slug = "netsession"
+organizer_entity = "Stefan Gruber"
+start_on = 2007-11-23
+end_on = 2007-11-25
+seats = 120
+
+[location]
+name = "Bürgerhaus Pliening"
+country_code = "de"
+city = "Pliening"
+postal_code = "85652"
+street = "Geltinger Str. 43"
+latitude = 48.19637
+longitude = 11.80611
+
+[links.website]
+url = "https://netsession.net/"

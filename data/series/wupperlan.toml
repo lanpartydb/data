@@ -1,0 +1,6 @@
+slug = "wupperlan"
+title = "WupperLAN"
+country_codes = ["de"]
+
+[links.website]
+url = "https://die.erste.wupper-lan.de/"

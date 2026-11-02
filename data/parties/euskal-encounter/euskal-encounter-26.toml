@@ -1,0 +1,15 @@
+slug = "euskal-encounter-26"
+title = "Euskal Encounter 26"
+series_slug = "euskal-encounter"
+organizer_entity = "Euskaltel Konekta"
+start_on = 2018-07-26
+end_on = 2018-07-29
+seats = 5088
+
+[location]
+name = "Bilbao Exhibition Centre (BEC)"
+country_code = "es"
+city = "Barakaldo"
+
+[links.website]
+url = "https://ee26.euskalencounter.org/"

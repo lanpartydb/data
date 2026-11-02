@@ -1,0 +1,17 @@
+slug = "gsh-lan-2025"
+title = "GSH 2025"
+series_slug = "gsh-lan"
+start_on = 2025-10-23
+end_on = 2025-10-26
+seats = 211
+attendees = 147
+
+[location]
+name = "Geschwister-Scholl-Gymnasium Berenbostel"
+country_code = "de"
+city = "Garbsen"
+postal_code = "30827"
+street = "Ludwigstraße 4"
+
+[links.website]
+url = "https://www.gsh-lan.com/party/?do=event&id=33"

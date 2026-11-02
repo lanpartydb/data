@@ -1,0 +1,15 @@
+slug = "euskal-encounter-25"
+title = "Euskal Encounter 25"
+series_slug = "euskal-encounter"
+organizer_entity = "Euskaltel Konekta"
+start_on = 2017-07-22
+end_on = 2017-07-25
+seats = 5024
+
+[location]
+name = "Bilbao Exhibition Centre (BEC)"
+country_code = "es"
+city = "Barakaldo"
+
+[links.website]
+url = "https://ee25.euskalencounter.org/"

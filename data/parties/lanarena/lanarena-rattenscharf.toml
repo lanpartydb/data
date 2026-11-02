@@ -1,0 +1,20 @@
+slug = "lanarena-rattenscharf"
+title = "LANarena – Rattenscharf"
+series_slug = "lanarena"
+organizer_entity = "Team LANarena"
+start_on = 2005-05-27
+end_on = 2005-05-29
+seats = 574
+attendees = 293
+
+[location]
+name = "Rattenfänger-Halle"
+country_code = "de"
+city = "Hameln"
+postal_code = "31785"
+street = "Mühlenstraße 17"
+latitude = 52.09996664653661
+longitude = 9.355647997062684
+
+[links.website]
+url = "https://www.lanarena.de/party/29/"

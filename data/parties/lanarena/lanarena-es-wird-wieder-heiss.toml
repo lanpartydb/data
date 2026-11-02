@@ -1,0 +1,20 @@
+slug = "lanarena-es-wird-wieder-heiss"
+title = "LANarena – Es wird wieder heiß"
+series_slug = "lanarena"
+organizer_entity = "Team LANarena"
+start_on = 2002-02-08
+end_on = 2002-02-10
+seats = 900
+attendees = 855
+
+[location]
+name = "Lindenhalle"
+country_code = "de"
+city = "Wolfenbüttel"
+postal_code = "38300"
+street = "Halberstädter Straße 1a"
+latitude = 52.15078962781556
+longitude = 10.550273632677433
+
+[links.website]
+url = "https://www.lanarena.de/party/1/"

@@ -4,7 +4,7 @@ series_slug = "convention-x-treme"
 organizer_entity = "Computerfreunde Karlsdorf-Neuthard e.V."
 start_on = 2021-04-02
 end_on = 2021-04-04
-online = true
+online_only = true
 
 [links.website]
 url = "https://www.convention-x-treme.de/"

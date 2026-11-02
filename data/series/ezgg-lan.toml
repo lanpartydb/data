@@ -1,0 +1,6 @@
+slug = "ezgg-lan"
+title = "EZGG LAN"
+country_codes = ["de"]
+
+[links.website]
+url = "https://ezgg-lan.de/"

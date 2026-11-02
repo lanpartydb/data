@@ -1,0 +1,20 @@
+slug = "lanarena-spielst-du-noch-oder-schlaefst-du-schon"
+title = "LANarena – Spielst Du noch oder Schläfst Du schon?"
+series_slug = "lanarena"
+organizer_entity = "Team LANarena"
+start_on = 2003-09-19
+end_on = 2003-09-21
+seats = 1048
+attendees = 1064
+
+[location]
+name = "Milleniumhalle"
+country_code = "de"
+city = "Braunschweig"
+postal_code = "38120"
+street = "Madamenweg 77"
+latitude = 52.25848252466876
+longitude = 10.483011857012432
+
+[links.website]
+url = "https://www.lanarena.de/party/19/"

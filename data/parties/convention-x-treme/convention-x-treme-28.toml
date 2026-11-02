@@ -1,0 +1,19 @@
+slug = "convention-x-treme-28"
+title = "Convention-X-Treme 28: Die Rückkehr der LAN Ritter"
+series_slug = "convention-x-treme"
+organizer_entity = "Computerfreunde Karlsdorf-Neuthard e.V."
+start_on = 2026-03-06
+end_on = 2026-03-09
+seats = 432
+
+[location]
+name = "Altenbürghalle"
+country_code = "de"
+city = "Karlsdorf-Neuthard"
+postal_code = "76689"
+street = "Altenbürgzentrum 1"
+latitude = 49.13116
+longitude = 8.53391
+
+[links.website]
+url = "https://www.convention-x-treme.de/"

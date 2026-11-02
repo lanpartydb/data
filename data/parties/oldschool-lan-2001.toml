@@ -1,0 +1,21 @@
+slug = "oldschool-lan-2001"
+title = "Oldschool-Lan 2001"
+series_slug = "oldschool-lan"
+organizer_entity = "Oldschool Lan e.V."
+start_on = 2001-06-22
+end_on = 2001-06-24
+seats = 50
+attendees = 50
+
+[location]
+name = "Ricarda-Huch-Schule"
+country_code = "de"
+city = "Braunschweig"
+postal_code = "38106"
+street = "Mendelssohnstr. 6"
+latitude = 52.2792423557862
+longitude = 10.547980174540086
+
+[links.website]
+url = "http://www.lan-oldschool.de/"
+offline = true

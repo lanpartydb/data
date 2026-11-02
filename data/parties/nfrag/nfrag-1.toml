@@ -1,0 +1,19 @@
+slug = "nfrag-1"
+title = "N-Frag"
+series_slug = "nfrag"
+start_on = 2001-03-09
+end_on = 2001-03-11
+seats = 600
+
+[location]
+name = "Nordseehalle Emden"
+country_code = "de"
+city = "Emden"
+postal_code = "26721"
+street = "Früchteburger Weg 17–19"
+latitude = 53.37734101095569
+longitude = 7.203387073544725
+
+[links.website]
+url = "http://www.nfrag.de/"
+offline = true

@@ -1,0 +1,19 @@
+slug = "wupperlan-4"
+title = "WupperLAN IV"
+series_slug = "wupperlan"
+start_on = 2002-09-20
+end_on = 2002-09-22
+seats = 96
+
+[location]
+name = "Schützenhalle Wuppertal-Beyenburg"
+country_code = "de"
+city = "Wuppertal"
+postal_code = "42399"
+street = "Beyenburger Furt 9"
+latitude = 51.249962
+longitude = 7.3035538
+
+[links.website]
+url = "https://wutallan.net/index.php?action=teilnehmer&id=12"
+offline = true

@@ -1,0 +1,7 @@
+slug = "wutallan"
+title = "wuTalLAN"
+country_codes = ["de"]
+
+[links.website]
+url = "https://www.wutallan.net/"
+offline = true

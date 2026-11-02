@@ -1,0 +1,20 @@
+slug = "lanarena-interludium"
+title = "LANarena – Interludium"
+series_slug = "lanarena"
+organizer_entity = "Team LANarena"
+start_on = 2004-02-13
+end_on = 2004-02-15
+seats = 464
+attendees = 402
+
+[location]
+name = "Gebläsehalle"
+country_code = "de"
+city = "Ilsede"
+postal_code = "31241"
+street = "Ilseder Hütte 10"
+latitude = 52.261808684819535
+longitude = 10.215063655380042
+
+[links.website]
+url = "https://www.lanarena.de/party/21/"

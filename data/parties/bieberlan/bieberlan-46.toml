@@ -5,12 +5,12 @@ organizer_entity = "Computer Club Südhessen e.V."
 start_on = 2024-04-12
 end_on = 2024-04-14
 seats = 383
-attendees = 383
+attendees = 382
 
 [location]
 name = "Kulturhalle Rödermark"
 country_code = "de"
-city = "Rödermark / Ober-Roden"
+city = "Rödermark/Ober-Roden"
 postal_code = "63322"
 street = "Dieburger Straße 27"
 latitude = 49.97624

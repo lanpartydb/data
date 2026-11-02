@@ -1,0 +1,19 @@
+slug = "nfrag-2"
+title = "N-Frag 2"
+series_slug = "nfrag"
+start_on = 2002-05-24
+end_on = 2002-05-26
+seats = 1400
+
+[location]
+name = "Weser-Ems-Halle Oldenburg"
+country_code = "de"
+city = "Oldenburg"
+postal_code = "26123"
+street = "Europaplatz 12"
+latitude = 53.14686996925026
+longitude = 8.22757973889506
+
+[links.website]
+url = "http://www.nfrag.de/"
+offline = true

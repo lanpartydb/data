@@ -1,0 +1,15 @@
+slug = "euskal-encounter-33"
+title = "Euskal Encounter 33"
+series_slug = "euskal-encounter"
+organizer_entity = "Asociación Amigos de la Informática EUSKALAMIGA"
+start_on = 2025-07-24
+end_on = 2025-07-27
+seats = 4096
+
+[location]
+name = "Bilbao Exhibition Centre (BEC)"
+country_code = "es"
+city = "Barakaldo"
+
+[links.website]
+url = "https://ee33.euskalencounter.org/"

@@ -1,0 +1,13 @@
+slug = "euskal-10"
+title = "Euskal 10"
+series_slug = "euskal-encounter"
+start_on = 2002-07-25
+end_on = 2002-07-28
+seats = 1600
+
+[location]
+country_code = "es"
+city = "Donostia"
+
+[links.website]
+url = "https://euskalencounter.org/euskal10/"

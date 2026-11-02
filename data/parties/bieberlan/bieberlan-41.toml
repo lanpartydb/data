@@ -5,7 +5,7 @@ organizer_entity = "Computer Club Südhessen e.V."
 start_on = 2019-03-15
 end_on = 2019-03-17
 seats = 172
-attendees = 172
+attendees = 171
 
 [location]
 name = "Reichenberghalle"

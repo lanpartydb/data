@@ -1,0 +1,20 @@
+slug = "next-level-netsession-1"
+title = "Next Level Netsession 1"
+series_slug = "netsession"
+organizer_entity = "Stefan Gruber"
+start_on = 2011-11-11
+end_on = 2011-11-13
+seats = 50
+attendees = 50
+
+[location]
+name = "Tennis Center München Nord"
+country_code = "de"
+city = "Oberschleißheim"
+postal_code = "85764"
+street = "Dachauer Str. 35 a"
+latitude = 48.25166
+longitude = 11.52818
+
+[links.website]
+url = "https://netsession.net/"

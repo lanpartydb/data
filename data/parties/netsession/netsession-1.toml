@@ -1,0 +1,20 @@
+slug = "netsession-1"
+title = "Netsession 1"
+series_slug = "netsession"
+organizer_entity = "Simon Herz"
+start_on = 1997-04-04
+end_on = 1997-04-06
+seats = 40
+attendees = 32
+
+[location]
+name = "Dom St. Maria und St. Korbinian"
+country_code = "de"
+city = "Freising"
+postal_code = "85354"
+street = "Domberg 36"
+latitude = 48.39893
+longitude = 11.74631
+
+[links.website]
+url = "https://netsession.net/"
